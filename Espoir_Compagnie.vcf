@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Compagnie;Espoir;;;
+FN:Espoir Compagnie
+ORG:Espoir Compagnie
+TITLE:Services informatiques et digitaux
+EMAIL;TYPE=INTERNET,WORK:espoircompagnie@gmail.com
+TEL;TYPE=CELL,VOICE:+243841138532
+URL:https://espoircompagnie.infinityfreeapp.com/
+NOTE:Espoir Compagnie accompagne entreprises\, marques et particuliers dans leur transformation numérique. Développement informatique\, design graphique\, bureautique\, communication digitale.
+X-SOCIALPROFILE;TYPE=whatsapp:https://wa.me/243841138532
+PRODID:-//Espoir Compagnie//vCard//FR
+REV:20260921T152400Z
+END:VCARD
